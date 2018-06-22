@@ -4,4 +4,4 @@ Preferences -> General -> New [windows | tabs] open with = Empty page
 
 Preferences -> General -> Remove history items = Manually
 
-Preferences -> General -> Show Develop menu in menu bar = ✔
+Preferences -> General -> Show Develop menu in menu bar = ✓
