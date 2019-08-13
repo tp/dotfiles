@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "explorer.openEditors.visible": 1000,
+    "debug.toolBarLocation": "docked"
+}
